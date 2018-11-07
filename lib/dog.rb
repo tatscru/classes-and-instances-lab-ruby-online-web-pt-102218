@@ -8,3 +8,4 @@ snoopy = Dog.new
 
 lassie = Dog.new 
 
+# by adding the = you have a local variable 
